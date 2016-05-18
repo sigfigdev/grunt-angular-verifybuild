@@ -3,3 +3,6 @@ npm-debug.log
 tmp
 *.sublime*
 README.html
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/*.iws
