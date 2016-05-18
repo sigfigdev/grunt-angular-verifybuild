@@ -1,7 +1,7 @@
 {
   "name": "grunt-angular-verifybuild",
   "description": "Verify integrity of build artifacts for a yeoman angular project",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://github.com/anchann/grunt-angular-verifybuild",
   "author": {
     "name": "sigfig",
@@ -26,9 +26,6 @@
     "grunt-contrib-jshint": "~1.0.0",
     "grunt-contrib-clean": "~1.0.0",
     "grunt-contrib-nodeunit": "~1.0.0",
-    "grunt": "~1.0.1"
-  },
-  "peerDependencies": {
     "grunt": "~1.0.1"
   },
   "keywords": [
